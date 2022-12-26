@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gevinduinduwara" alt="gevinduinduwara" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/gevindu_induwara?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/GevinduI?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
 
 - 🌱 I’m currently learning **Java Script**
 
