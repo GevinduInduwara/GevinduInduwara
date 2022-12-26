@@ -1,6 +1,7 @@
-<img src="file:///Users/gevindu/Downloads/clark-tibbs-oqStl2L5oxI-unsplash.jpeg">
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 
 <p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/GevinduI?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
 
