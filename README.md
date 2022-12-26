@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
-img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/DYOXwjlumRddshn7-8eQeJvsTAkQelbuGKJ4MpSRWpw/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/Zk5CT19VRFlFVnhN/MEU1VDJGeUpRSGFG/aiZwaWQ9QXBp"
+<img align="right" alt="Coding" width="400" src="file:///Users/gevindu/Downloads/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gevinduinduwara&label=Profile%20views&color=0e75b6&style=flat" alt="gevinduinduwara" /> </p>
 
