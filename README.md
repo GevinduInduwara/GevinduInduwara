@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
 
-<p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/gevindu_induwara?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/GevinduI?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
 
 - 🏫 I’m currently Study on **SLIIT**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gevindu_induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gevindu_induwara" height="30" width="40" /></a>
+<a href="https://twitter.com/gevindu_induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GevinduI" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gevindu induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gevindu induwara" height="30" width="40" /></a>
 <a href="https://fb.com/gevindu induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gevindu induwara" height="30" width="40" /></a>
 <a href="https://instagram.com/gevindu induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gevindu induwara" height="30" width="40" /></a>
