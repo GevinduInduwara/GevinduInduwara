@@ -1,3 +1,4 @@
+<img src="file:///Users/gevindu/Downloads/clark-tibbs-oqStl2L5oxI-unsplash.jpeg">
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
 
