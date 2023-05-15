@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966" data-canonical-src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="coding" 
 
 
 <p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/GevinduI?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
