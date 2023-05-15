@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 <h3 align="center">I'm a web developer</h3>
-<img align="right" alt="coding" 
 
 
 <p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/GevinduI?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
