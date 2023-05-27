@@ -2,7 +2,10 @@
 <h3 align="center">I'm a MERN Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/gevindu_induwara?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
-- 🧑‍💻 I’m currently learning **MERN Stack**
+
+- 🧑‍💻 I’m currently learning MERN Stack
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gevindu_induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gevindu_induwara" height="30" width="40" /></a>
