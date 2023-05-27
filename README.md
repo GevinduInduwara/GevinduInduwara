@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/gevindu_induwara" target="blank"><img src="https://img.shields.io/twitter/follow/gevindu_induwara?logo=twitter&style=for-the-badge" alt="gevindu_induwara" /></a> </p>
 
 - 🧑‍💻 I’m currently learning MERN Stack
-- currently Working On A Online Management System At Btech Solar Solutions(Pvt.Ltd)
+- 👨🏻‍💻 Currently Working On A Online Management System At Btech Solar Solutions(Pvt.Ltd)
 
 
 <h3 align="left">Connect with me:</h3>
