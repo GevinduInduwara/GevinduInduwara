@@ -5,7 +5,6 @@ c<h1 align="center">Hi 👋, I'm Gevindu Induwara</h1>
 - 🧑‍💻 I’m currently Learning Ai/ML And Automation engineering 
 - 👨🏻‍💻 Currently Working as a System Integration Engineer
 - 
-<p align="left"> <a href="https://twitter.com/hashanmofficial" target="blank"><img src="https://img.shields.io/twitter/follow/hashanmofficial?logo=twitter&style=for-the-badge" alt="hashanmofficial" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💻 Tech Stack:
